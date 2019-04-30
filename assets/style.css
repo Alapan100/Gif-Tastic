@@ -1,0 +1,19 @@
+.jumbotron{
+	/*padding: 1%;*/
+	background-color: #5cb85c;
+	color: #ffffff;
+}
+
+#background {
+	background-repeat: none;
+	background-image: url("https://media1.giphy.com/media/NnFZysBOEprAA/giphy.gif"); 
+	background-size: cover;
+}
+
+#movies{
+	padding: 3%;
+}
+
+div{
+	margin-bottom: 2%;
+}
